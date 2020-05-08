@@ -7,4 +7,27 @@ The New Dad’s App would be a place for new dads and old alike to come and give
 
 # Schedule 
 
-![imagetimematrix](images/timematrix)
+![imagetimematrix](https://res.cloudinary.com/drcgo7zqn/image/upload/v1588968252/timematrix_h28pr7.png)
+
+# Wireframing
+
+![imagewireframe] (https://res.cloudinary.com/drcgo7zqn/image/upload/v1588968252/wireframe_ggc95e.png)
+React structure
+![reactstructure](https://res.cloudinary.com/drcgo7zqn/image/upload/v1588969013/Screen_Shot_2020-05-08_at_2.16.37_PM_lkhdkl.png)
+
+# Data Model
+
+![imagedatamodels](https://res.cloudinary.com/drcgo7zqn/image/upload/v1588968252/data_structure_zaci8e.png)
+
+# Libraries and frameworks
+
+  - React
+  - Python 3.0
+  - Django
+  - Bootstrap
+  - JWT
+  
+# Errors and Bugs
+
+
+# Sample Code
