@@ -12,7 +12,7 @@ The New Dad’s App would be a place for new dads and old alike to come and give
 # Wireframing
 
 ![imagewireframe](https://res.cloudinary.com/drcgo7zqn/image/upload/v1588968252/wireframe_ggc95e.png)
-React structure
+## React structure
 ![reactstructure](https://res.cloudinary.com/drcgo7zqn/image/upload/v1588969013/Screen_Shot_2020-05-08_at_2.16.37_PM_lkhdkl.png)
 
 # Data Model
