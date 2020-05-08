@@ -1,4 +1,4 @@
-# NewDadsApp
+# New Dad's
 
 
 # Overview 
@@ -7,4 +7,4 @@ The New Dad’s App would be a place for new dads and old alike to come and give
 
 # Schedule 
 
-![imagetimematrix]()
+![imagetimematrix](images/timematrix)
