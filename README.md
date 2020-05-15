@@ -14,15 +14,15 @@ The New Dad’s App would be a place for new dads and old alike to come and give
   
 # Deployed
 
-  -https://romantic-northcutt-bd99b7.netlify.app/
+  https://romantic-northcutt-bd99b7.netlify.app/
   
 # Front End Repo Link
 
-  -https://github.com/cameron8sellers/DadsFrontend
+  https://github.com/cameron8sellers/DadsFrontend
   
 # Back End Repo Link
 
-  -https://github.com/cameron8sellers/DadsBackend
+  https://github.com/cameron8sellers/DadsBackend
 
 
 # Sample Code
@@ -32,3 +32,9 @@ The New Dad’s App would be a place for new dads and old alike to come and give
 
 ## Map Function for Recipe cards
 ![Recipecode](https://res.cloudinary.com/drcgo7zqn/image/upload/v1589563395/Screen_Shot_2020-05-15_at_11.22.24_AM_uiwjyv.png)
+
+# Current Bugs and Issues (unsolved)
+ * Allowing users to post their own categories but only that specfic user can see.
+ 
+ 
+![appscreenshot](https://res.cloudinary.com/drcgo7zqn/image/upload/v1589564181/Screen_Shot_2020-05-15_at_11.35.49_AM_jej4dj.png)
