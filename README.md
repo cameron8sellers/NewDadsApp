@@ -6,11 +6,11 @@ The New Dad’s App would be a place for new dads and old alike to come and give
 
 # Libraries and frameworks
 
-  - React
-  - Reactstrap
-  -JWT
-  -Django
-  -Python 3.0
+  * React
+  * Reactstrap
+  * JWT
+  * Django
+  * Python 3.0
   
 # Deployed
 
