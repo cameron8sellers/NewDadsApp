@@ -8,11 +8,27 @@ The New Dad’s App would be a place for new dads and old alike to come and give
 
   - React
   - Reactstrap
+  -JWT
+  -Django
+  -Python 3.0
+  
+# Deployed
+
+  -https://romantic-northcutt-bd99b7.netlify.app/
   
 # Front End Repo Link
 
   -https://github.com/cameron8sellers/DadsFrontend
-# Errors and Bugs
+  
+# Back End Repo Link
+
+  -https://github.com/cameron8sellers/DadsBackend
 
 
 # Sample Code
+
+## Create a User Server side
+!image[Creatinguser](https://res.cloudinary.com/drcgo7zqn/image/upload/v1589563395/Screen_Shot_2020-05-15_at_11.22.24_AM_uiwjyv.png)
+
+## Map Function for Recipe cards
+!image[Recipecode](https://res.cloudinary.com/drcgo7zqn/image/upload/v1589563395/Screen_Shot_2020-05-15_at_11.22.24_AM_uiwjyv.png)
