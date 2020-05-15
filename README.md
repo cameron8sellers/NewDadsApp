@@ -28,7 +28,7 @@ The New Dad’s App would be a place for new dads and old alike to come and give
 # Sample Code
 
 ## Create a User Server side
-!image[Creatinguser](https://res.cloudinary.com/drcgo7zqn/image/upload/v1589563395/Screen_Shot_2020-05-15_at_11.22.24_AM_uiwjyv.png)
+![Creatinguser](https://res.cloudinary.com/drcgo7zqn/image/upload/v1589563395/Screen_Shot_2020-05-15_at_11.22.24_AM_uiwjyv.png)
 
 ## Map Function for Recipe cards
-!image[Recipecode](https://res.cloudinary.com/drcgo7zqn/image/upload/v1589563395/Screen_Shot_2020-05-15_at_11.22.24_AM_uiwjyv.png)
+![Recipecode](https://res.cloudinary.com/drcgo7zqn/image/upload/v1589563395/Screen_Shot_2020-05-15_at_11.22.24_AM_uiwjyv.png)
