@@ -36,5 +36,5 @@ The New Dad’s App would be a place for new dads and old alike to come and give
 # Current Bugs and Issues (unsolved)
  * Allowing users to post their own categories but only that specfic user can see.
  
- 
+ ## App view currently
 ![appscreenshot](https://res.cloudinary.com/drcgo7zqn/image/upload/v1589564181/Screen_Shot_2020-05-15_at_11.35.49_AM_jej4dj.png)
